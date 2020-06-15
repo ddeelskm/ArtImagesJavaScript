@@ -3,6 +3,13 @@ ArtImagesJavaScript
 All changes can be viewed via commits.
 All the functionality is created without using frameworks.
 ---
+update 15.06.2020 v2
+- Loading elements
+- Calculator
+- Filtering elements
+
+---
+
 update 15.06.2020
 - Form for sending data ( data and images)
 - Validation of the input form

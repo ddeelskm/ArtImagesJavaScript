@@ -1,4 +1,4 @@
-import checkNumInputs from './checkNumInputs'
+import {postDate} from '../services/requests'
 
 const forms = () =>{
     const form = document.querySelectorAll('form'),
@@ -22,14 +22,6 @@ const forms = () =>{
         question: 'assets/question.php'
     }
 
-    const postDate = async (url, data) =>{
-        let res = await fetch(url, {
-            method: 'POSt',
-            body: data
-        })
-
-        return await res.text()
-    }
 
     const clearInputs = () =>{
         inputs.forEach(item =>{
