@@ -3,6 +3,16 @@ ArtImagesJavaScript
 All changes can be viewed via commits.
 All the functionality is created without using frameworks.
 ---
+
+update 16.06.2020
+- Replace images on hover.
+- Added the accordion list.
+- Added a Burger menu.
+- Smooth scrolling to the anchor.
+- Added Drag & Drop image loading.
+
+---
+
 update 15.06.2020 v2
 - Loading elements
 - Calculator
